@@ -35,13 +35,6 @@ I enjoy building clean backend architectures, designing APIs, and collaborating 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyaaamk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nyaaamk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
----
-
 ## 🔗 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nyaaamk-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyaaamk)
