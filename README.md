@@ -22,6 +22,13 @@ I enjoy building clean backend architectures, designing APIs, and collaborating 
 
 ---
 
+## Sample projects
+
+[A custom game for Darts](https://tri-score.vercel.app)
+[DrumKit](https://drumkit-nk.vercel.app)
+
+---
+
 ## 📜 Certifications
 
 | Date | Certification |
