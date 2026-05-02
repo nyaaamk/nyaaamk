@@ -35,17 +35,17 @@ I enjoy building clean backend architectures, designing APIs, and collaborating 
 
 | Date | Certification |
 |---|---|
-| May 2025 | [Legacy JavaScript Algorithms and Data Structures V7](https://www.freecodecamp.org/certification/nyaaamk/javascript-algorithms-and-data-structures) — freeCodeCamp |
-| Jan 2026 | [B1 English for Developers](https://www.freecodecamp.org/certification/nyaaamk/b1-english-for-developers) — freeCodeCamp |
-| Jan 2026 | [A2 English for Developers](https://www.freecodecamp.org/certification/nyaaamk/a2-english-for-developers) — freeCodeCamp |
-| Jan 2026 | [Microservices Foundations](https://www.linkedin.com/learning/certificates/7c51bff0008a3e0c0f04ba559c1f69eee365b6b132c1bd4db6c347c9e20040e3) — LinkedIn Learning |
-| Feb 2026 | [AI Foundations: Machine Learning](https://www.linkedin.com/learning/certificates/23768a492c772d8ea924ab05fdae27b770c1992ae1564d0ec1e63ea747bbec3f) — LinkedIn Learning |
-| Feb 2026 | [Node.js: Security](https://www.linkedin.com/learning/certificates/49c4f9465c9f372128c4ba2cb7d87a93da3782f738df39937bf67a18d5aef012) — LinkedIn Learning |
+| May 15th, 2025 | [Legacy JavaScript Algorithms and Data Structures V7](https://www.freecodecamp.org/certification/nyaaamk/javascript-algorithms-and-data-structures) — freeCodeCamp |
+| Jan 20th, 2026 | [B1 English for Developers](https://www.freecodecamp.org/certification/nyaaamk/b1-english-for-developers) — freeCodeCamp |
+| Jan 21st, 2026 | [A2 English for Developers](https://www.freecodecamp.org/certification/nyaaamk/a2-english-for-developers) — freeCodeCamp |
+| Jan 25th, 2026 | [Microservices Foundations](https://www.linkedin.com/learning/certificates/7c51bff0008a3e0c0f04ba559c1f69eee365b6b132c1bd4db6c347c9e20040e3) — LinkedIn Learning |
+| Feb 20th, 2026 | [AI Foundations: Machine Learning](https://www.linkedin.com/learning/certificates/23768a492c772d8ea924ab05fdae27b770c1992ae1564d0ec1e63ea747bbec3f) — LinkedIn Learning |
+| Feb 20th, 2026 | [Node.js: Security](https://www.linkedin.com/learning/certificates/49c4f9465c9f372128c4ba2cb7d87a93da3782f738df39937bf67a18d5aef012) — LinkedIn Learning |
 
 ---
 
-## 🔗 Find Me
+## 🔗 Related links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nyaaamk-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyaaamk)
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-nyaaamk-0A0A23?style=flat&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/nyaaamk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nyaaamk-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyaaamk)  
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-nyaaamk-0A0A23?style=flat&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/nyaaamk)  
 [![Codecademy](https://img.shields.io/badge/Codecademy-nyaaamk-1F4056?style=flat&logo=codecademy&logoColor=white)](https://www.codecademy.com/profiles/nyaaamk)
