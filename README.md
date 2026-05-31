@@ -26,7 +26,7 @@ I enjoy building clean backend architectures, designing APIs, and collaborating 
 
 | Project | Description |
 |---|---|
-| 🎯 [TriScore](https://tri-score.vercel-nk.app) | A custom scoring game for Darts |
+| 🎯 [TriScore](https://tri-score-nk.vercel.app) | A custom scoring game for Darts |
 | 🥁 [DrumKit](https://drumkit-nk.vercel.app) | Browser-based drum machine with 9 pads & sound banks |
 | 🎯 [ChainScore](https://chain-score-nk.vercel.app) | A custom score tracking game for Darts |
 
