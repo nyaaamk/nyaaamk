@@ -14,7 +14,7 @@ I enjoy building clean backend architectures, designing APIs, and collaborating 
 
 | Layer | Stack |
 |---|---|
-| **Languages** | JavaScript(Typescript), SQL, Bash |
+| **Languages** | JavaScript(Typescript), Java(Spring Boot), SQL, Bash |
 | **Backend** | Node.js + Typescript, REST APIs, Microservices, Event-driven Architecture |
 | **Databases** | PostgreSQL, MongoDB, Redis |
 | **Domains** | Fintech, Health Insurance, Government Systems |
