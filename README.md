@@ -1,28 +1,39 @@
 # Hi, I'm nyaaamk 👋
 
-I'm a backend-focused software engineer with **4+ years of experience** designing and building scalable, secure systems across **fintech, medical, and government-regulated domains**.
+I'm a **Backend Developer** with **4+ years of experience** building backend systems across fintech, healthcare, and government-integrated applications.
 
-My core expertise is **Node.js and TypeScript**, with hands-on experience in microservices, event-driven architecture, and relational/NoSQL databases.
+My core expertise is **Node.js and TypeScript**, and I also work with **Java and Spring Boot**. My experience spans API design, microservices, event-driven systems, and relational and NoSQL databases.
 
-I've worked on high-impact integrations including payment systems, banking APIs, government platforms, e-invoicing, and health insurance systems — where correctness, security, and reliability are critical.
+I've worked on **digital lending and loan origination systems**, payment and banking integrations, credit assessment, identity verification, and bank-statement processing. My broader experience includes government platforms, e-invoicing, and health insurance integrations—systems where data correctness, security, and reliability matter.
 
-I enjoy building clean backend architectures, designing APIs, and collaborating with frontend teams to deliver production-ready solutions. Currently expanding my frontend skills with **React / Next.js** to strengthen full-stack delivery, while maintaining a strong backend focus.
+I focus on translating complex business rules into maintainable services, clear APIs, and well-defined module boundaries. My current Java work includes **Clean Architecture, domain-driven design, and Spring Modulith**.
 
 ---
 
 ## 🛠️ Tech & Skills
 
-| Layer | Stack |
+| Area | Technologies & Practices |
 |---|---|
-| **Languages** | JavaScript(Typescript), Java(Spring Boot), SQL, Bash |
-| **Backend** | Node.js + Typescript, REST APIs, Microservices, Event-driven Architecture |
-| **Databases** | PostgreSQL, MongoDB, Redis |
-| **Domains** | Fintech, Health Insurance, Government Systems |
-| **Currently Learning** | React, Next.js, Java |
+| **Languages** | TypeScript, JavaScript, Java |
+| **Backend** | Node.js, Express, Spring Boot, Spring Security, REST APIs |
+| **Architecture** | Microservices, event-driven architecture, modular monoliths, Clean Architecture, DDD |
+| **Data & Messaging** | PostgreSQL, MongoDB |
+| **Integrations** | Banking APIs, payments, government services, credit scoring, identity verification |
+| **Java Ecosystem** | Spring Modulith, Spring Data JPA, Flyway |
+| **Cloud & Services** | AWS, S3, SMS and email integrations |
 
 ---
 
-## 🚀 Sample Projects
+## 💼 Backend Experience
+
+- **Lending platforms:** Loan applications, origination workflows, credit assessment, collateral, contracts, and repayment integrations.
+- **Financial integrations:** Payment processing, core banking connectivity, bank-statement parsing, transaction categorization, and financial reporting.
+- **Identity and access:** Authentication, authorization, customer verification, consent, and government data integrations.
+- **Supporting services:** Audit logging, document and media handling, notifications, and automated data collection.
+
+---
+
+<!-- ## 🚀 Sample Projects
 
 | Project | Description |
 |---|---|
@@ -30,7 +41,7 @@ I enjoy building clean backend architectures, designing APIs, and collaborating 
 | 🥁 [DrumKit](https://drumkit-nk.vercel.app) | Browser-based drum machine with 9 pads & sound banks |
 | 🎯 [ChainScore](https://chain-score-nk.vercel.app) | A custom score tracking game for Darts |
 
----
+--- -->
 
 ## 📜 Certifications
 
